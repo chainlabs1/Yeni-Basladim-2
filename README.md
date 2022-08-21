@@ -21,5 +21,9 @@ Bu sayfada kurmuş olduğunuz sunucuya bağlanmak için adımları tek tek göst
 ![terminal2](https://user-images.githubusercontent.com/111664010/185797246-4503915f-46d8-4db6-bb92-a1e2a1eb3ef9.png)
 ### 2. Açılan pencerede SSH sekmesini seçiyoruz.
 ![terminal3](https://user-images.githubusercontent.com/111664010/185797345-62247c68-5413-405d-8487-c22f5d646f1b.png)
-### 3. Görselde gösterildiği şeklinde adımları uygularayarak suncumuz IP adresi ile bağlanıyoruz. 
+### 3. Görselde gösterildiği şekilde, adımları uygularayarak suncumuza IP adresi ile bağlanıyoruz. 
 ![terminal4](https://user-images.githubusercontent.com/111664010/185797534-d5aa3c77-4d47-49da-8b5b-cac28ec6c43c.png)
+
+### 4. Bağlantı sağlandıktan sonra; Bu şekilde bir ekran sizi karşılayacaktır. Artık, projedeki kurulum adımlarını sırasıyla takip ederek Testnet projesini rahatlıkla kurabilirsiniz.
+![terminal5](https://user-images.githubusercontent.com/111664010/185797901-a1cefe0e-7da4-4fad-8cac-01c87ef6edd1.png)
+
